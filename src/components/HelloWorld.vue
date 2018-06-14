@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <el-tooltip content="Show Tooltip">
+    <el-tooltip  content="Show Tooltip">
       <el-button>
         Test Tooltip
       </el-button>

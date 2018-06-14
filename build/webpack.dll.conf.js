@@ -3,7 +3,7 @@ const webpack = require('webpack');
 
 module.exports = {
   entry: {
-    vendor: ['vue/dist/vue.esm.js', 'element-ui'],
+    vendor: ['element-ui'],
   },
   output: {
     path: path.join(__dirname, '../static/js'),

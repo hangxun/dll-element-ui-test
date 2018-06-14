@@ -13,8 +13,7 @@
   },
   "dependencies": {
     "element-ui": "1.4.8",
-    "vue": "^2.5.2",
-    "vue-popper": "^0.3.8"
+    "vue": "^2.5.2"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",

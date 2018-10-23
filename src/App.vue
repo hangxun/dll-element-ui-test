@@ -3,19 +3,16 @@
     <img src="./assets/logo.png">
     <HelloWorld/>
     <hr>
-    <MixinTest/>
   </div>
 </template>
 
 <script>
 import HelloWorld from './components/HelloWorld'
-import MixinTest from 'mixintest'
 
 export default {
   name: 'app',
   components: {
-    HelloWorld,
-    MixinTest
+    HelloWorld
   }
 }
 </script>
